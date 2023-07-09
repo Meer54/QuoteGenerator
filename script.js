@@ -40,9 +40,13 @@ var quotes = [
   author: 'Unknown'
 },
 {
-  text: 'Breakups are like broken mirror. It\'s better to leave it broken than hurt yourself trying to fix it',
-  auhtor: 'Unknown'
-}
+  text: 'Breakups are like broken mirrors. It\'s better to leave it broken than hurt yourself trying to fix it',
+  author: 'Unknown'
+},
+  {
+    text: 'The saddest thing about love is that it doesn\'t always last, but the memories do',
+    author: 'Unknown'
+  },
 ];
 
 function generateQuote() {
